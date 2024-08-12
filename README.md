@@ -4,9 +4,9 @@
 **react-dev-SakifAlfi/react-dev-SakifAlfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋, my name is Alfi
 #### I am GitHub React Developer
-![I am GitHub React Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-'m a passionate React Developer with a keen eye for building responsive and user-friendly web applications. I enjoy turning complex problems into simple, beautiful interfaces and constantly learning new technologies to improve my craft.
+
+I'm a passionate React Developer with a keen eye for building responsive and user-friendly web applications. I enjoy turning complex problems into simple, beautiful interfaces and constantly learning new technologies to improve my craft.
 
 Skills:  JQuery / REACT / JS / HTML / CSS/Canva/Figma/Firebase
 
